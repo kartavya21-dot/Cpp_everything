@@ -14,6 +14,8 @@
         "xtree": "cpp",
         "cmath": "cpp",
         "xstring": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "ios": "cpp",
+        "unordered_map": "cpp"
     }
 }
