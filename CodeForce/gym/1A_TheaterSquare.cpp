@@ -5,6 +5,7 @@ long long ceil(long long n, long long m){
     if(n % m == 0)  return n / m;
     return (n / m) + 1;
 }
+
 int main()
 {
     long long n, m, a;
